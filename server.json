@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.gokeyio/keyio",
+  "title": "Keyio",
+  "description": "Run your rentals in Spain from your AI assistant: SES filings, VeriFactu invoices, rent, taxes.",
+  "version": "1.0.0",
+  "websiteUrl": "https://gokeyio.com/features/ai-assistant",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://gokeyio.com/api/mcp" }
+  ]
+}

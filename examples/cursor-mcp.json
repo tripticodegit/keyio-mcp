@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "keyio": {
+      "url": "https://gokeyio.com/api/mcp"
+    }
+  }
+}
