@@ -3,9 +3,16 @@
   "name": "com.gokeyio/keyio",
   "title": "Keyio",
   "description": "Run your rentals in Spain from your AI assistant: SES filings, VeriFactu invoices, rent, taxes.",
-  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/tripticodegit/keyio-mcp",
+    "source": "github"
+  },
+  "version": "1.0.1",
   "websiteUrl": "https://gokeyio.com/features/ai-assistant",
   "remotes": [
-    { "type": "streamable-http", "url": "https://gokeyio.com/api/mcp" }
+    {
+      "type": "streamable-http",
+      "url": "https://gokeyio.com/api/mcp"
+    }
   ]
 }
