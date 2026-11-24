@@ -5,6 +5,7 @@
 **Tus alquileres en España desde tu asistente de IA: partes SES, facturas VeriFactu, cobros e impuestos.**
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/tripticodegit-keyio-mcp-1loset?v=39b20fe1c77b07b5d32acbbf82b63ea3)](https://m8ven.ai/mcp/tripticodegit-keyio-mcp-1loset?s=readme)
+[![Keyio MCP connector](https://glama.ai/mcp/connectors/com.gokeyio/keyio/badges/score.svg)](https://glama.ai/mcp/connectors/com.gokeyio/keyio)
 
 [Keyio](https://gokeyio.com) es un software de gestión de alquileres para propietarios y gestores en España: vivienda turística, larga estancia, alquiler por habitaciones y compra-venta. Su servidor MCP alojado permite a Claude, ChatGPT, Cursor, VS Code y cualquier otro cliente MCP hacer lo que harías en la app, también el papeleo que exige la ley.
 

@@ -5,6 +5,7 @@
 **Run your rentals in Spain from your AI assistant: SES filings, VeriFactu invoices, rent, taxes.**
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/tripticodegit-keyio-mcp-1loset?v=39b20fe1c77b07b5d32acbbf82b63ea3)](https://m8ven.ai/mcp/tripticodegit-keyio-mcp-1loset?s=readme)
+[![Keyio MCP connector](https://glama.ai/mcp/connectors/com.gokeyio/keyio/badges/score.svg)](https://glama.ai/mcp/connectors/com.gokeyio/keyio)
 
 [Keyio](https://gokeyio.com) is property management software for landlords and managers in Spain: holiday lets, long-term rentals, room-by-room lets and buy-to-sell. Its hosted MCP server lets Claude, ChatGPT, Cursor, VS Code and any other MCP client do the work you would otherwise do in the app, including the paperwork Spanish law requires.
 
